@@ -1,0 +1,6 @@
+{
+  "name": "Rainbowr55.GitHub.io",
+  "tagline": "about java android js pythod git ...etc learning notes",
+  "body": " \r\n### 垃圾回收器有三大职责:\r\n\r\n\r\n- 分配内存;\r\n- 确保任何被引用的对象保留在内存中;\r\n- 回收不能通过引用关系找到的对象的内存. \r\n![gc process](http://upload-images.jianshu.io/upload_images/851999-e93c3c96a9a1ba2b.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
