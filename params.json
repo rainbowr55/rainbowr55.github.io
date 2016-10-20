@@ -1,6 +1,6 @@
 {
   "name": "Rainbowr55.GitHub.io",
   "tagline": "about java android js pythod git ...etc learning notes",
-  "body": "\r\n \r\n- git 学习笔记 [git](https://github.com/rainbowr55/learngit/blob/master/git_learn.md)\r\n- GC 学习  [gc](https://github.com/rainbowr55/learngit/blob/master/gc%2Bprocess.md)\r\n- ThreadLocal  [threadlocal](https://github.com/rainbowr55/learngit/blob/master/threadLocal.md)\r\n ",
+  "body": "\r\n\r\n###Android 学习笔记\r\n\r\n- GC 学习  [关于gc](https://github.com/rainbowr55/learngit/blob/master/gc%2Bprocess.md)\r\n- ThreadLocal学习笔记  [ThreadLocal学习笔记](https://github.com/rainbowr55/learngit/blob/master/threadLocal.md)\r\n\r\n\r\n###git 学习笔记\r\n- git 学习笔记 [git](https://github.com/rainbowr55/learngit/blob/master/git_learn.md)",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
